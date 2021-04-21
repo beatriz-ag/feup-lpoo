@@ -1,0 +1,15 @@
+com/aor/numbers/DivisibleByFilter.java
+ com.aor.numbers.DivisibleByFilter
+com/aor/numbers/ListSorter.java
+ com.aor.numbers.IListSorter
+ com.aor.numbers.ListSorter
+com/aor/numbers/ListAggregator.java
+ com.aor.numbers.ListAggregator
+com/aor/numbers/ListFilterer.java
+ com.aor.numbers.GenericListFilter
+ com.aor.numbers.ListFilterer
+com/aor/numbers/ListDeduplicator.java
+ com.aor.numbers.IlistDeduplicator
+ com.aor.numbers.ListDeduplicator
+com/aor/numbers/PositiveFilter.java
+ com.aor.numbers.PositiveFilter
